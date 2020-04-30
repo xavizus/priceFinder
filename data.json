@@ -1,0 +1,170 @@
+[
+    {
+       "productid":"ST4000NE001",
+       "vendors":[
+          {
+             "vendor":"dustin",
+             "url":"https://www.dustinhome.se/product/5011164597/ironwolf-pro",
+             "price":2295
+          
+ },
+          {
+             "url":"https://www.elgiganten.se/product/datorer-tillbehor/harddisk-ssd-och-nas/149724/seagate-ironwolf-pro-3-5-intern-harddisk-for-nas-4-tb",
+             "vendor":"elgiganten",
+             "price":1949
+          
+ },
+          {
+             "url":"https://www.inet.se/produkt/4301688/seagate-ironwolf-pro-4tb-7200rpm-256mb",
+             "vendor":"inet",
+             "price":2190
+          
+ },
+          {
+             "url":"https://www.webhallen.com/api/product/312677",
+             "vendor":"webhallen",
+             "price":2090
+          
+ },
+          {
+             "url":"https://www.komplett.se/product/1152689/datorutrustning/lagring/haarddisk/haarddisk-35/seagate-ironwolf-pro-4tb-nas-professional",
+             "vendor":"komplett",
+             "price":1999
+          
+ }
+       
+ ],
+       "productName":"Seagate IronWolf-pro ST4000NE001 128MB 4TB",
+       "size":4
+    
+ },
+    {
+       "productid":"ST6000VN0033",
+       "vendors":[
+          {
+             "url":"https://www.dustinhome.se/product/5011168946/ironwolf-pro",
+             "vendor":"dustin",
+             "price":2995
+          
+ },
+          {
+             "url":"https://www.inet.se/produkt/4301918/seagate-ironwolf-pro-6tb-7200rpm-256mb",
+             "vendor":"inet",
+             "price":2999
+          
+ },
+          {
+             "url":"https://www.elgiganten.se/product/datorer-tillbehor/harddisk-ssd-och-nas/149723/seagate-ironwolf-pro-3-5-intern-harddisk-for-nas-6-tb",
+             "vendor":"elgiganten",
+             "price":2589
+          
+ },
+          {
+             "url":"https://www.webhallen.com/api/product/312678-Seagate",
+             "vendor":"webhallen",
+             "price":2680
+          
+ },
+          {
+             "url":"https://www.komplett.se/product/1152685/datorutrustning/lagring/haarddisk/haarddisk-35/seagate-ironwolf-pro-6tb-nas-professional",
+             "vendor":"komplett",
+             "price":2705
+          
+ }
+       
+ ],
+       "productName":"Seagate IronWolf-pro ST6000VN0033 256MB 6TB",
+       "size":6
+    
+ },
+    {
+       "productid":"ST8000VN004",
+       "vendors":[
+          {
+             "url":"https://www.dustinhome.se/product/5011160398/ironwolf",
+             "vendor":"dustin",
+             "price":3395
+          
+ },
+          {
+             "url":"https://www.elgiganten.se/product/datorer-tillbehor/harddisk-ssd-och-nas/149739/seagate-ironwolf-pro-3-5-intern-harddisk-for-nas-8-tb",
+             "vendor":"elgiganten",
+             "price":2890
+          
+ },
+          {
+             "url":"https://www.inet.se/produkt/4301448/seagate-ironwolf-8tb-7200rpm-256mb",
+             "vendor":"inet",
+             "price":3090
+          
+ },
+          {
+             "url":"https://www.webhallen.com/api/product/312089",
+             "vendor":"webhallen",
+             "price":2999
+          
+ },
+          {
+             "url":"https://www.komplett.se/product/1147206/datorutrustning/lagring/haarddisk/haarddisk-35/seagate-ironwolf-8tb-35-nas-hdd",
+             "vendor":"komplett",
+             "price":2889
+          
+ },
+          {
+             "url":"https://www.netonnet.se/art/datorkomponenter/harddisk/sata-35-tum/seagate-ironwolf-st8000vn004-8tb/1009443.8991/",
+             "vendor":"netonnet",
+             "price":2890
+          
+ }
+       
+ ],
+       "productName":"Seagate IronWolf ST8000VN004 256MB 8TB",
+       "size":8
+    
+ },
+    {
+       "productid":"ST10000VN0008",
+       "vendors":[
+          {
+             "url":"https://www.dustinhome.se/product/5011153178/ironwolf",
+             "vendor":"dustin",
+             "price":4245
+          
+ },
+          {
+             "url":"https://www.elgiganten.se/product/datorer-tillbehor/harddisk-ssd-och-nas/157258/seagate-ironwolf-3-5-intern-hdd-for-nas-10-tb",
+             "vendor":"elgiganten",
+             "price":3990
+          
+ },
+          {
+             "url":"https://www.inet.se/produkt/4300258/seagate-ironwolf-4tb-5900rpm-64mb",
+             "vendor":"inet",
+             "price":1499
+          
+ },
+          {
+             "url":"https://www.webhallen.com/api/product/314439",
+             "vendor":"webhallen",
+             "price":3990
+          
+ },
+          {
+             "url":"https://www.komplett.se/product/1146023/datorutrustning/lagring/haarddisk/haarddisk-35/seagate-ironwolf-10tb-35-nas-hdd",
+             "vendor":"komplett",
+             "price":3936
+          
+ },
+          {
+             "url":"https://www.netonnet.se/art/datorkomponenter/harddisk/sata-35-tum/seagate-ironwolf-st10000vn0008-10tb/1010198.8991/",
+             "vendor":"netonnet",
+             "price":3790
+          
+ }
+       
+ ],
+       "productName":"Seagate IronWolf ST10000VN0008 256MB 10TB",
+       "size":10
+    
+ }
+ ]
