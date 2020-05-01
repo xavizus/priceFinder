@@ -1,0 +1,35 @@
+{
+    "file":"content",
+    "embeds":[
+       {
+          "color":2067276,
+          "title":"A Title",
+          "description":"Some description",
+          "footer":{
+             "text":"Hostname: PostmanAPI / More info: Nothing",
+             "icon_url":""
+          },
+          "fields":[
+             {
+                "name":"Product",
+                "value":"ST4000NE001",
+                "inline": true
+             },
+             {
+                "name":"Where",
+                "value":"Dustin",
+                "inline": true
+             },
+             {
+                "name":"Price",
+                "value":"2295",
+                "inline": true
+             },
+             {
+                "name":"URL",
+                "value":"[Dustin](https://www.dustinhome.se/product/5011164597/ironwolf-pro)"
+             }
+          ]
+       }
+    ]
+ }
