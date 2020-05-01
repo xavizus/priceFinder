@@ -1,5 +1,6 @@
 {
     "file":"content",
+    "content" : "A lower price have been found! <@&182749298390204416>",
     "embeds":[
        {
           "color":2067276,
@@ -28,10 +29,6 @@
              {
                 "name":"URL",
                 "value":"[Dustin](https://www.dustinhome.se/product/5011164597/ironwolf-pro)"
-             },
-             {
-             	"name": "Mentions",
-             	"value": "<@&182749298390204416>"
              }
           ]
        }
