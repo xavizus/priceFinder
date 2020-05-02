@@ -134,6 +134,7 @@ def sendDiscordMessage(content):
         payload['embeds'][0]['color'] = 2067276
         payload['content'] = "A lower price have been found! <@&182749298390204416>"
     elif content['priceDiff'] < 0:
+        payload['embeds'][0][3]['value'] = f"{((content['price'] - content['oldprice'])/content['price'])*100} %"
         payload['embeds'][0]['color'] = 10038562
 
     response = requests.post(config.DISCORD_WEBHOOK, json=payload)
