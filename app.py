@@ -45,8 +45,6 @@ productsToCheck = [
         "vendors": [
             {"url": "https://www.dustinhome.se/product/5011160398/ironwolf",
              "vendor": "dustin"},
-            {"url": "https://www.elgiganten.se/product/datorer-tillbehor/harddisk-ssd-och-nas/149739/seagate-ironwolf-pro-3-5-intern-harddisk-for-nas-8-tb",
-             "vendor": "elgiganten"},
             {"url": "https://www.inet.se/produkt/4301448/seagate-ironwolf-8tb-7200rpm-256mb",
              "vendor": "inet"},
             {"url": "https://www.webhallen.com/api/product/312089",
@@ -65,6 +63,8 @@ productsToCheck = [
         "vendors": [
             {"url": "https://www.dustinhome.se/product/5011153178/ironwolf",
              "vendor": "dustin"},
+            {"url": "https://www.elgiganten.se/product/datorer-tillbehor/harddisk-ssd-och-nas/157258/seagate-ironwolf-3-5-intern-hdd-for-nas-10-tb",
+             "vendor": "elgiganten"},
             {"url": "https://www.inet.se/produkt/4301922/seagate-ironwolf-10tb-7200rpm-256mb",
              "vendor": "inet"},
             {"url": "https://www.webhallen.com/api/product/314439",
